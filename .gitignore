@@ -1,0 +1,6 @@
+# Ignore model and output artifacts
+models/
+outputs/
+comparison*.json
+
+

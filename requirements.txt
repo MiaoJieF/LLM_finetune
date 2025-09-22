@@ -1,0 +1,5 @@
+datasets==3.3.2
+numpy==2.3.3
+peft==0.17.1
+torch==2.7.0+cu118
+transformers==4.56.1
